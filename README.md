@@ -42,4 +42,4 @@ How do insurance and stigma-related barriers affect the likelihood of unmet ment
 **📂 Data Source**
 [🔗 Hennepin County SHAPE 2022 survey dataset and documentation](https://www.hennepin.us/your-government/research-data/shape-surveys)
 
-🏛️ This public-facing product was shared with and used by Hennepin County Public Health for policy and program planning related to immigrant health equity.
+🏛️ This public-facing product was shared with and used by Hennepin County Public Health for policy and program planning related to health equity.
