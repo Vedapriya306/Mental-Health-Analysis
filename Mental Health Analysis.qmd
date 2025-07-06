@@ -161,7 +161,7 @@ percent_change_insurance <- abs((or_insurance_unadj["insurance_barrier"] - or_in
 percent_change_stigma <- abs((or_stigma_unadj["stigma_barrier"] - or_stigma_adj["stigma_barrier"]) /
                                or_stigma_unadj["stigma_barrier"]) * 100
 
-# 🖨️ Print results
+#  Print results
 print(paste("Percent change in OR for insurance_barrier:", round(percent_change_insurance, 2), "%"))
 print(paste("Percent change in OR for stigma_barrier:", round(percent_change_stigma, 2), "%"))
 
