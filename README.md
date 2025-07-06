@@ -1,6 +1,6 @@
 # Mental-Health-Analysis
 🧠 Project Overview
-This project analyzed data from the SHAPE 2022 survey to examine whether individuals who needed mental health care but did not receive it experienced insurance or stigma-related barriers, and how these barriers differ across gender and race/ethnicity. We used statistical modeling to identify patterns and disparities in access to care.
+This project analyzed data from the Hennepin County SHAPE 2022 survey data to examine whether individuals who needed mental health care but did not receive it experienced insurance or stigma-related barriers, and how these barriers differ across gender and race/ethnicity. We used statistical modeling to identify patterns and disparities in access to care using R language.
 
 ❓ Research Question
 How do insurance and stigma-related barriers affect the likelihood of unmet mental health care needs, and do these effects vary across gender and racial/ethnic groups?
@@ -18,7 +18,7 @@ How do insurance and stigma-related barriers affect the likelihood of unmet ment
 4. Logistic regression with:
 -Main effects
 -Adjusted models
--Interaction term (agedonor16*dcd_yn)
+-Interaction term 
 5. Confounding check using the 10% change-in-estimate rule
 
 📈 Key Findings
@@ -28,6 +28,7 @@ How do insurance and stigma-related barriers affect the likelihood of unmet ment
 4. Black, Hispanic, and Asian individuals had lower odds of unmet need compared to White individuals.
 5. Black and White females had the highest rates of unmet need among all race-gender groups.
 
-Data Source
-Hennepin County SHAPE 2022 Survey
+📂 Data Source
+[🔗 Hennepin County SHAPE 2022 survey dataset and documentation](https://www.hennepin.us/your-government/research-data/shape-surveys)
+
 🏛️ This public-facing product was shared with and used by Hennepin County Public Health for policy and program planning related to immigrant health equity.
