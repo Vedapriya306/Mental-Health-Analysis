@@ -29,7 +29,11 @@ How do insurance and stigma-related barriers affect the likelihood of unmet ment
 3. People facing stigma were 87% less likely to receive care.
 4. Black, Hispanic, and Asian individuals had lower odds of unmet need compared to White individuals.
 5. Black and White females had the highest rates of unmet need among all race-gender groups.
----0
+---
+## 📊 Visualizations
+![Barplot](output/plots/barplot_dgf_by_dcd_status.png)
+
+---
 **📂 Data Source**
 [🔗 Hennepin County SHAPE 2022 survey dataset and documentation](https://www.hennepin.us/your-government/research-data/shape-surveys)
 
