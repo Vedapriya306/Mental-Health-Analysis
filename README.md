@@ -31,7 +31,12 @@ How do insurance and stigma-related barriers affect the likelihood of unmet ment
 5. Black and White females had the highest rates of unmet need among all race-gender groups.
 ---
 ## 📊 Visualizations
-![Barplot](image-url))
+![Barplot](![Unmet Mental Health need by gender](https://github.com/user-attachments/assets/70e52d00-e4e3-4c36-80d7-a716c27a57c2)
+)
+![Unment Mental Health by race](https://github.com/user-attachments/assets/61b8a141-0684-4212-bc20-67fb7edee84b)
+
+
+
 
 ---
 **📂 Data Source**
