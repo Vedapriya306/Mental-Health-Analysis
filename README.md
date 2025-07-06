@@ -1,5 +1,6 @@
 
 # Mental-Health-Analysis
+
 **🧠 Project Overview**
 This project analyzed data from the Hennepin County SHAPE 2022 survey data to examine whether individuals who needed mental health care but did not receive it experienced insurance or stigma-related barriers, and how these barriers differ across gender and race/ethnicity. We used statistical modeling to identify patterns and disparities in access to care using R language.
 
